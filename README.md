@@ -1,6 +1,6 @@
 # MakerBaseSGB
 
-Welcome to MakerBaseSGB - this is a Smile Game Builder project that holds utilities in events that expand on the base functionality of SGB. 
+Welcome to MakerBaseSGB - this is a Smile Game Builder project that holds utilities in events that expand on the base functionality of SGB. Forked from the original @Mottzy MakerBaseSGB, this project seeks to add several enhancements above and beyond, modding the mod, so to speak 
 
 # Using This Project
 
@@ -52,3 +52,11 @@ While it's not possible to alleviate these issues completely, the steps below pr
    3. Double Click to see the variable editor, and click the drop down that has all the common variables on display
    4. Take a screenshot of the variable list and reopen your project
    5. Navigate to the newly pasted script, and use the screenshot as a reference to fix all the variable names.
+   
+## Dev Updates
+
+9/8/2020 forked original MakerBaseSGB
+9/8/2020 worked on World Map Menu for Fast Travel
+9/8/2020 worked on Item quick-use GUI
+9/8/2020 worked on Skill quick-use GUI
+9/8/2020 worked on Advanced Character Start Menu
